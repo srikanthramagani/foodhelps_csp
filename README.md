@@ -70,4 +70,34 @@ A web-based solution to reduce food waste in hotels and restaurants by enabling 
    ```bash
    git clone https://github.com/srikanthramagani/foodhelps.git
    cd foodhelps
+   Setup the Database
+
+2.Import the foodhelps.sql file in phpMyAdmin
+
+Update your db_connect.php or equivalent with your DB credentials
+
+Run the Server
+
+Use XAMPP/WAMP/LAMP
+
+Place files in htdocs (for XAMPP)
+
+Access via http://localhost/foodhelps
+
+📬 Contact
+For questions, suggestions, or collaboration:
+
+📧 Email:srikanthramagani@gmail.com
+
+🌐 LinkedIn: https://www.linkedin.com/in/srikanthramagani/
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙌 Acknowledgements
+OpenAI ChatGPT
+
+Google Maps Platform
+
+All contributors and testers who supported the development
 
